@@ -4,3 +4,9 @@ body {
     font-size: larger;
     color: white;
 }
+a:link {
+    color: red;
+}
+a:visited {
+    color:black;
+}
