@@ -1,12 +1,10 @@
 body {
     text-align: center;
     font-family: 'Amatic SC', cursive;
-    font-size: larger;
+    font-size: x-large;
     color: white;
 }
-a:link {
+
+a:hover {
     color: red;
-}
-a:visited {
-    color:black;
 }
