@@ -3,8 +3,19 @@ body {
     font-family: 'Amatic SC', cursive;
     font-size: x-large;
     color: white;
+    background-image: url(https://cdn.wallpapersafari.com/63/32/GXSP1I.jpg);
 }
 
 a:hover {
     color: red;
+}
+
+.card,
+.carousel-item,
+.jumbotron,
+#button {
+    background: rgba(255, 255, 255, 0.2) !important;
+    border: solid 1px black;
+    border-radius: 5px;
+    padding: 20px;
 }
